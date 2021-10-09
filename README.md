@@ -1,1 +1,0 @@
-# MemChar-Low-Power-and-Low-Cost-Arduino-Based-Characterization-Tool-for-Memristor-Devices
