@@ -1,6 +1,6 @@
 This Code is an implementation of MemChar: Low-Power and Low-Cost Arduino-‎Based Characterization Tool for Memristor ‎Devices
 
-Please refer to the paper for circuit and connection guidance
+Please refer to the paper for circuit and connection guidance, also a Simulation video of MemChar functionality is added to the files. 
 
 The work is publushed in IEEE Transactions on Instrumentation and Measurement. please cite the paper when using the code 
 
