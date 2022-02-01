@@ -4,7 +4,7 @@ Please refer to the paper for circuit and connection guidance, also a Simulation
 
 The work is publushed in IEEE Transactions on Instrumentation and Measurement. please cite the paper when using the code 
 
-Paper: 
+Paper: 10.1109/TIM.2022.3144202
 
 
 components needed: 
